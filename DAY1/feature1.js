@@ -5,7 +5,7 @@ let stringvar = "nitish"; // string
 let flag = true; //boolean
 let arrayvar = [1,2,3,4,5]; //array
 let objvar = {name: "nitish" , age:20};
-let nul = null; //Null
+let nul = null; //object
 let und = undefined;
  
 
